@@ -1,0 +1,424 @@
+C:\Users\79910\source\repos\movie_program\bin\Debug\net6.0-windows\movie_program.exe
+C:\Users\79910\source\repos\movie_program\bin\Debug\net6.0-windows\movie_program.dll.config
+C:\Users\79910\source\repos\movie_program\bin\Debug\net6.0-windows\movie_program.deps.json
+C:\Users\79910\source\repos\movie_program\bin\Debug\net6.0-windows\movie_program.runtimeconfig.json
+C:\Users\79910\source\repos\movie_program\bin\Debug\net6.0-windows\movie_program.dll
+C:\Users\79910\source\repos\movie_program\bin\Debug\net6.0-windows\movie_program.pdb
+C:\Users\79910\source\repos\movie_program\obj\Debug\net6.0-windows\movie_program.csproj.AssemblyReference.cache
+C:\Users\79910\source\repos\movie_program\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\79910\source\repos\movie_program\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\79910\source\repos\movie_program\obj\Debug\net6.0-windows\movie_program_MarkupCompile.cache
+C:\Users\79910\source\repos\movie_program\obj\Debug\net6.0-windows\movie_program_MarkupCompile.lref
+C:\Users\79910\source\repos\movie_program\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\79910\source\repos\movie_program\obj\Debug\net6.0-windows\movie_program.g.resources
+C:\Users\79910\source\repos\movie_program\obj\Debug\net6.0-windows\movie_program.Properties.Resources.resources
+C:\Users\79910\source\repos\movie_program\obj\Debug\net6.0-windows\movie_program.csproj.GenerateResource.cache
+C:\Users\79910\source\repos\movie_program\obj\Debug\net6.0-windows\movie_program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79910\source\repos\movie_program\obj\Debug\net6.0-windows\movie_program.AssemblyInfoInputs.cache
+C:\Users\79910\source\repos\movie_program\obj\Debug\net6.0-windows\movie_program.AssemblyInfo.cs
+C:\Users\79910\source\repos\movie_program\obj\Debug\net6.0-windows\movie_program.csproj.CoreCompileInputs.cache
+C:\Users\79910\source\repos\movie_program\obj\Debug\net6.0-windows\movie_program.dll
+C:\Users\79910\source\repos\movie_program\obj\Debug\net6.0-windows\refint\movie_program.dll
+C:\Users\79910\source\repos\movie_program\obj\Debug\net6.0-windows\movie_program.pdb
+C:\Users\79910\source\repos\movie_program\obj\Debug\net6.0-windows\movie_program.genruntimeconfig.cache
+C:\Users\79910\source\repos\movie_program\obj\Debug\net6.0-windows\ref\movie_program.dll
+C:\Users\79910\source\repos\movie_program\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\79910\source\repos\movie_program\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\79910\source\repos\movie_program\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\79910\source\repos\movie_program\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\79910\source\repos\movie_program\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\79910\source\repos\movie_program\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\79910\source\repos\movie_program\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\79910\source\repos\movie_program\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\79910\source\repos\movie_program\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\79910\source\repos\movie_program\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\79910\source\repos\movie_program\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\79910\source\repos\movie_program\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\79910\source\repos\movie_program\bin\Debug\net6.0-windows\MySqlConnector.dll
+C:\Users\79910\source\repos\movie_program\bin\Debug\net6.0-windows\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\79910\source\repos\movie_program\obj\Debug\net6.0-windows\movie_program_Content.g.cs
+C:\Users\79910\source\repos\movie_program\obj\Debug\net6.0-windows\movie_program.csproj.CopyComplete
+C:\Users\Семья\Downloads\movie_program-20230216T171339Z-001\movie_program\obj\Debug\net6.0-windows\movie_program.csproj.AssemblyReference.cache
+C:\Users\Семья\Downloads\movie_program-20230216T171339Z-001\movie_program\obj\Debug\net6.0-windows\Menu.g.cs
+C:\Users\Семья\Downloads\movie_program-20230216T171339Z-001\movie_program\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Семья\Downloads\movie_program-20230216T171339Z-001\movie_program\obj\Debug\net6.0-windows\movie_program_Content.g.cs
+C:\Users\Семья\Downloads\movie_program-20230216T171339Z-001\movie_program\obj\Debug\net6.0-windows\movie_program_MarkupCompile.cache
+C:\Users\Семья\Downloads\movie_program-20230216T171339Z-001\movie_program\obj\Debug\net6.0-windows\movie_program_MarkupCompile.lref
+C:\Users\Семья\Downloads\movie_program-20230216T171339Z-001\movie_program\obj\Debug\net6.0-windows\movie_program.dll
+C:\Users\Семья\Downloads\movie_program-20230216T171339Z-001\movie_program\obj\Debug\net6.0-windows\refint\movie_program.dll
+C:\Users\Семья\Downloads\movie_program-20230216T171339Z-001\movie_program\obj\Debug\net6.0-windows\movie_program.pdb
+C:\Users\Семья\Downloads\movie_program-20230216T171339Z-001\movie_program\bin\Debug\net6.0-windows\movie_program.exe
+C:\Users\Семья\Downloads\movie_program-20230216T171339Z-001\movie_program\bin\Debug\net6.0-windows\movie_program.dll.config
+C:\Users\Семья\Downloads\movie_program-20230216T171339Z-001\movie_program\bin\Debug\net6.0-windows\movie_program.deps.json
+C:\Users\Семья\Downloads\movie_program-20230216T171339Z-001\movie_program\bin\Debug\net6.0-windows\movie_program.runtimeconfig.json
+C:\Users\Семья\Downloads\movie_program-20230216T171339Z-001\movie_program\bin\Debug\net6.0-windows\movie_program.dll
+C:\Users\Семья\Downloads\movie_program-20230216T171339Z-001\movie_program\bin\Debug\net6.0-windows\movie_program.pdb
+C:\Users\Семья\Downloads\movie_program-20230216T171339Z-001\movie_program\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Семья\Downloads\movie_program-20230216T171339Z-001\movie_program\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Семья\Downloads\movie_program-20230216T171339Z-001\movie_program\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Семья\Downloads\movie_program-20230216T171339Z-001\movie_program\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Семья\Downloads\movie_program-20230216T171339Z-001\movie_program\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Семья\Downloads\movie_program-20230216T171339Z-001\movie_program\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Семья\Downloads\movie_program-20230216T171339Z-001\movie_program\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Семья\Downloads\movie_program-20230216T171339Z-001\movie_program\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Семья\Downloads\movie_program-20230216T171339Z-001\movie_program\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Семья\Downloads\movie_program-20230216T171339Z-001\movie_program\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Семья\Downloads\movie_program-20230216T171339Z-001\movie_program\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Семья\Downloads\movie_program-20230216T171339Z-001\movie_program\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Семья\Downloads\movie_program-20230216T171339Z-001\movie_program\bin\Debug\net6.0-windows\MySqlConnector.dll
+C:\Users\Семья\Downloads\movie_program-20230216T171339Z-001\movie_program\bin\Debug\net6.0-windows\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Семья\Downloads\movie_program-20230216T171339Z-001\movie_program\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Семья\Downloads\movie_program-20230216T171339Z-001\movie_program\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Семья\Downloads\movie_program-20230216T171339Z-001\movie_program\obj\Debug\net6.0-windows\Menu.baml
+C:\Users\Семья\Downloads\movie_program-20230216T171339Z-001\movie_program\obj\Debug\net6.0-windows\movie_program.g.resources
+C:\Users\Семья\Downloads\movie_program-20230216T171339Z-001\movie_program\obj\Debug\net6.0-windows\movie_program.Properties.Resources.resources
+C:\Users\Семья\Downloads\movie_program-20230216T171339Z-001\movie_program\obj\Debug\net6.0-windows\movie_program.csproj.GenerateResource.cache
+C:\Users\Семья\Downloads\movie_program-20230216T171339Z-001\movie_program\obj\Debug\net6.0-windows\movie_program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Семья\Downloads\movie_program-20230216T171339Z-001\movie_program\obj\Debug\net6.0-windows\movie_program.AssemblyInfoInputs.cache
+C:\Users\Семья\Downloads\movie_program-20230216T171339Z-001\movie_program\obj\Debug\net6.0-windows\movie_program.AssemblyInfo.cs
+C:\Users\Семья\Downloads\movie_program-20230216T171339Z-001\movie_program\obj\Debug\net6.0-windows\movie_program.csproj.CoreCompileInputs.cache
+C:\Users\Семья\Downloads\movie_program-20230216T171339Z-001\movie_program\obj\Debug\net6.0-windows\movie_program.csproj.CopyComplete
+C:\Users\Семья\Downloads\movie_program-20230216T171339Z-001\movie_program\obj\Debug\net6.0-windows\movie_program.genruntimeconfig.cache
+C:\Users\Семья\Downloads\movie_program-20230216T171339Z-001\movie_program\obj\Debug\net6.0-windows\ref\movie_program.dll
+C:\Users\79910\Downloads\movie_program\bin\Debug\net6.0-windows\movie_program.exe
+C:\Users\79910\Downloads\movie_program\bin\Debug\net6.0-windows\movie_program.dll.config
+C:\Users\79910\Downloads\movie_program\bin\Debug\net6.0-windows\movie_program.deps.json
+C:\Users\79910\Downloads\movie_program\bin\Debug\net6.0-windows\movie_program.runtimeconfig.json
+C:\Users\79910\Downloads\movie_program\bin\Debug\net6.0-windows\movie_program.dll
+C:\Users\79910\Downloads\movie_program\bin\Debug\net6.0-windows\movie_program.pdb
+C:\Users\79910\Downloads\movie_program\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\79910\Downloads\movie_program\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\79910\Downloads\movie_program\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\79910\Downloads\movie_program\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\79910\Downloads\movie_program\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\79910\Downloads\movie_program\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\79910\Downloads\movie_program\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\79910\Downloads\movie_program\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\79910\Downloads\movie_program\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\79910\Downloads\movie_program\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\79910\Downloads\movie_program\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\79910\Downloads\movie_program\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\79910\Downloads\movie_program\bin\Debug\net6.0-windows\MySqlConnector.dll
+C:\Users\79910\Downloads\movie_program\bin\Debug\net6.0-windows\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\79910\Downloads\movie_program\obj\Debug\net6.0-windows\movie_program.csproj.AssemblyReference.cache
+C:\Users\79910\Downloads\movie_program\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\79910\Downloads\movie_program\obj\Debug\net6.0-windows\Menu.g.cs
+C:\Users\79910\Downloads\movie_program\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\79910\Downloads\movie_program\obj\Debug\net6.0-windows\movie_program_Content.g.cs
+C:\Users\79910\Downloads\movie_program\obj\Debug\net6.0-windows\movie_program_MarkupCompile.cache
+C:\Users\79910\Downloads\movie_program\obj\Debug\net6.0-windows\movie_program_MarkupCompile.lref
+C:\Users\79910\Downloads\movie_program\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\79910\Downloads\movie_program\obj\Debug\net6.0-windows\Menu.baml
+C:\Users\79910\Downloads\movie_program\obj\Debug\net6.0-windows\movie_program.g.resources
+C:\Users\79910\Downloads\movie_program\obj\Debug\net6.0-windows\movie_program.Properties.Resources.resources
+C:\Users\79910\Downloads\movie_program\obj\Debug\net6.0-windows\movie_program.csproj.GenerateResource.cache
+C:\Users\79910\Downloads\movie_program\obj\Debug\net6.0-windows\movie_program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79910\Downloads\movie_program\obj\Debug\net6.0-windows\movie_program.AssemblyInfoInputs.cache
+C:\Users\79910\Downloads\movie_program\obj\Debug\net6.0-windows\movie_program.AssemblyInfo.cs
+C:\Users\79910\Downloads\movie_program\obj\Debug\net6.0-windows\movie_program.csproj.CoreCompileInputs.cache
+C:\Users\79910\Downloads\movie_program\obj\Debug\net6.0-windows\movie_program.csproj.CopyComplete
+C:\Users\79910\Downloads\movie_program\obj\Debug\net6.0-windows\movie_program.dll
+C:\Users\79910\Downloads\movie_program\obj\Debug\net6.0-windows\refint\movie_program.dll
+C:\Users\79910\Downloads\movie_program\obj\Debug\net6.0-windows\movie_program.pdb
+C:\Users\79910\Downloads\movie_program\obj\Debug\net6.0-windows\movie_program.genruntimeconfig.cache
+C:\Users\79910\Downloads\movie_program\obj\Debug\net6.0-windows\ref\movie_program.dll
+C:\Users\79910\source\repos\movie_program\obj\Debug\net6.0-windows\Menu.g.cs
+C:\Users\79910\source\repos\movie_program\obj\Debug\net6.0-windows\Menu.baml
+C:\Users\79910\source\repos\movie_program\obj\Debug\net6.0-windows\Edit.g.cs
+C:\Users\79910\source\repos\movie_program\obj\Debug\net6.0-windows\Edit.baml
+C:\Users\79910\source\repos\movie_program\obj\Debug\net6.0-windows\Registration.g.cs
+C:\Users\79910\source\repos\movie_program\obj\Debug\net6.0-windows\Registration.baml
+E:\2 курс\Осн. Алгоритм. и програм\Кинотеатр\movie_program\bin\Debug\net6.0-windows\movie_program.exe
+E:\2 курс\Осн. Алгоритм. и програм\Кинотеатр\movie_program\bin\Debug\net6.0-windows\movie_program.dll.config
+E:\2 курс\Осн. Алгоритм. и програм\Кинотеатр\movie_program\bin\Debug\net6.0-windows\movie_program.deps.json
+E:\2 курс\Осн. Алгоритм. и програм\Кинотеатр\movie_program\bin\Debug\net6.0-windows\movie_program.runtimeconfig.json
+E:\2 курс\Осн. Алгоритм. и програм\Кинотеатр\movie_program\bin\Debug\net6.0-windows\movie_program.dll
+E:\2 курс\Осн. Алгоритм. и програм\Кинотеатр\movie_program\bin\Debug\net6.0-windows\movie_program.pdb
+E:\2 курс\Осн. Алгоритм. и програм\Кинотеатр\movie_program\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+E:\2 курс\Осн. Алгоритм. и програм\Кинотеатр\movie_program\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\2 курс\Осн. Алгоритм. и програм\Кинотеатр\movie_program\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+E:\2 курс\Осн. Алгоритм. и програм\Кинотеатр\movie_program\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\2 курс\Осн. Алгоритм. и програм\Кинотеатр\movie_program\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\2 курс\Осн. Алгоритм. и програм\Кинотеатр\movie_program\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\2 курс\Осн. Алгоритм. и програм\Кинотеатр\movie_program\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+E:\2 курс\Осн. Алгоритм. и програм\Кинотеатр\movie_program\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\2 курс\Осн. Алгоритм. и програм\Кинотеатр\movie_program\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+E:\2 курс\Осн. Алгоритм. и програм\Кинотеатр\movie_program\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\2 курс\Осн. Алгоритм. и програм\Кинотеатр\movie_program\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+E:\2 курс\Осн. Алгоритм. и програм\Кинотеатр\movie_program\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+E:\2 курс\Осн. Алгоритм. и програм\Кинотеатр\movie_program\bin\Debug\net6.0-windows\MySqlConnector.dll
+E:\2 курс\Осн. Алгоритм. и програм\Кинотеатр\movie_program\bin\Debug\net6.0-windows\Pomelo.EntityFrameworkCore.MySql.dll
+E:\2 курс\Осн. Алгоритм. и програм\Кинотеатр\movie_program\obj\Debug\net6.0-windows\movie_program.csproj.AssemblyReference.cache
+E:\2 курс\Осн. Алгоритм. и програм\Кинотеатр\movie_program\obj\Debug\net6.0-windows\Edit.g.cs
+E:\2 курс\Осн. Алгоритм. и програм\Кинотеатр\movie_program\obj\Debug\net6.0-windows\MainWindow.g.cs
+E:\2 курс\Осн. Алгоритм. и програм\Кинотеатр\movie_program\obj\Debug\net6.0-windows\Menu.g.cs
+E:\2 курс\Осн. Алгоритм. и програм\Кинотеатр\movie_program\obj\Debug\net6.0-windows\Registration.g.cs
+E:\2 курс\Осн. Алгоритм. и програм\Кинотеатр\movie_program\obj\Debug\net6.0-windows\App.g.cs
+E:\2 курс\Осн. Алгоритм. и програм\Кинотеатр\movie_program\obj\Debug\net6.0-windows\movie_program_Content.g.cs
+E:\2 курс\Осн. Алгоритм. и програм\Кинотеатр\movie_program\obj\Debug\net6.0-windows\movie_program_MarkupCompile.cache
+E:\2 курс\Осн. Алгоритм. и програм\Кинотеатр\movie_program\obj\Debug\net6.0-windows\movie_program_MarkupCompile.lref
+E:\2 курс\Осн. Алгоритм. и програм\Кинотеатр\movie_program\obj\Debug\net6.0-windows\Edit.baml
+E:\2 курс\Осн. Алгоритм. и програм\Кинотеатр\movie_program\obj\Debug\net6.0-windows\MainWindow.baml
+E:\2 курс\Осн. Алгоритм. и програм\Кинотеатр\movie_program\obj\Debug\net6.0-windows\Menu.baml
+E:\2 курс\Осн. Алгоритм. и програм\Кинотеатр\movie_program\obj\Debug\net6.0-windows\Registration.baml
+E:\2 курс\Осн. Алгоритм. и програм\Кинотеатр\movie_program\obj\Debug\net6.0-windows\movie_program.g.resources
+E:\2 курс\Осн. Алгоритм. и програм\Кинотеатр\movie_program\obj\Debug\net6.0-windows\movie_program.Properties.Resources.resources
+E:\2 курс\Осн. Алгоритм. и програм\Кинотеатр\movie_program\obj\Debug\net6.0-windows\movie_program.csproj.GenerateResource.cache
+E:\2 курс\Осн. Алгоритм. и програм\Кинотеатр\movie_program\obj\Debug\net6.0-windows\movie_program.GeneratedMSBuildEditorConfig.editorconfig
+E:\2 курс\Осн. Алгоритм. и програм\Кинотеатр\movie_program\obj\Debug\net6.0-windows\movie_program.AssemblyInfoInputs.cache
+E:\2 курс\Осн. Алгоритм. и програм\Кинотеатр\movie_program\obj\Debug\net6.0-windows\movie_program.AssemblyInfo.cs
+E:\2 курс\Осн. Алгоритм. и програм\Кинотеатр\movie_program\obj\Debug\net6.0-windows\movie_program.csproj.CoreCompileInputs.cache
+E:\2 курс\Осн. Алгоритм. и програм\Кинотеатр\movie_program\obj\Debug\net6.0-windows\movie_program.csproj.CopyComplete
+E:\2 курс\Осн. Алгоритм. и програм\Кинотеатр\movie_program\obj\Debug\net6.0-windows\movie_program.dll
+E:\2 курс\Осн. Алгоритм. и програм\Кинотеатр\movie_program\obj\Debug\net6.0-windows\refint\movie_program.dll
+E:\2 курс\Осн. Алгоритм. и програм\Кинотеатр\movie_program\obj\Debug\net6.0-windows\movie_program.pdb
+E:\2 курс\Осн. Алгоритм. и програм\Кинотеатр\movie_program\obj\Debug\net6.0-windows\movie_program.genruntimeconfig.cache
+E:\2 курс\Осн. Алгоритм. и програм\Кинотеатр\movie_program\obj\Debug\net6.0-windows\ref\movie_program.dll
+C:\Users\MaryFabDoll\Downloads\movie_program-20230512T102609Z-001\movie_program\bin\Debug\net6.0-windows\movie_program.exe
+C:\Users\MaryFabDoll\Downloads\movie_program-20230512T102609Z-001\movie_program\bin\Debug\net6.0-windows\movie_program.dll.config
+C:\Users\MaryFabDoll\Downloads\movie_program-20230512T102609Z-001\movie_program\bin\Debug\net6.0-windows\movie_program.deps.json
+C:\Users\MaryFabDoll\Downloads\movie_program-20230512T102609Z-001\movie_program\bin\Debug\net6.0-windows\movie_program.runtimeconfig.json
+C:\Users\MaryFabDoll\Downloads\movie_program-20230512T102609Z-001\movie_program\bin\Debug\net6.0-windows\movie_program.dll
+C:\Users\MaryFabDoll\Downloads\movie_program-20230512T102609Z-001\movie_program\bin\Debug\net6.0-windows\movie_program.pdb
+C:\Users\MaryFabDoll\Downloads\movie_program-20230512T102609Z-001\movie_program\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\MaryFabDoll\Downloads\movie_program-20230512T102609Z-001\movie_program\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\MaryFabDoll\Downloads\movie_program-20230512T102609Z-001\movie_program\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\MaryFabDoll\Downloads\movie_program-20230512T102609Z-001\movie_program\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\MaryFabDoll\Downloads\movie_program-20230512T102609Z-001\movie_program\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\MaryFabDoll\Downloads\movie_program-20230512T102609Z-001\movie_program\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\MaryFabDoll\Downloads\movie_program-20230512T102609Z-001\movie_program\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\MaryFabDoll\Downloads\movie_program-20230512T102609Z-001\movie_program\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\MaryFabDoll\Downloads\movie_program-20230512T102609Z-001\movie_program\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\MaryFabDoll\Downloads\movie_program-20230512T102609Z-001\movie_program\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\MaryFabDoll\Downloads\movie_program-20230512T102609Z-001\movie_program\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\MaryFabDoll\Downloads\movie_program-20230512T102609Z-001\movie_program\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\MaryFabDoll\Downloads\movie_program-20230512T102609Z-001\movie_program\bin\Debug\net6.0-windows\MySqlConnector.dll
+C:\Users\MaryFabDoll\Downloads\movie_program-20230512T102609Z-001\movie_program\bin\Debug\net6.0-windows\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\MaryFabDoll\Downloads\movie_program-20230512T102609Z-001\movie_program\obj\Debug\net6.0-windows\movie_program.csproj.AssemblyReference.cache
+C:\Users\MaryFabDoll\Downloads\movie_program-20230512T102609Z-001\movie_program\obj\Debug\net6.0-windows\Edit.g.cs
+C:\Users\MaryFabDoll\Downloads\movie_program-20230512T102609Z-001\movie_program\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\MaryFabDoll\Downloads\movie_program-20230512T102609Z-001\movie_program\obj\Debug\net6.0-windows\Menu.g.cs
+C:\Users\MaryFabDoll\Downloads\movie_program-20230512T102609Z-001\movie_program\obj\Debug\net6.0-windows\Registration.g.cs
+C:\Users\MaryFabDoll\Downloads\movie_program-20230512T102609Z-001\movie_program\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\MaryFabDoll\Downloads\movie_program-20230512T102609Z-001\movie_program\obj\Debug\net6.0-windows\movie_program_Content.g.cs
+C:\Users\MaryFabDoll\Downloads\movie_program-20230512T102609Z-001\movie_program\obj\Debug\net6.0-windows\movie_program_MarkupCompile.cache
+C:\Users\MaryFabDoll\Downloads\movie_program-20230512T102609Z-001\movie_program\obj\Debug\net6.0-windows\movie_program_MarkupCompile.lref
+C:\Users\MaryFabDoll\Downloads\movie_program-20230512T102609Z-001\movie_program\obj\Debug\net6.0-windows\Edit.baml
+C:\Users\MaryFabDoll\Downloads\movie_program-20230512T102609Z-001\movie_program\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\MaryFabDoll\Downloads\movie_program-20230512T102609Z-001\movie_program\obj\Debug\net6.0-windows\Menu.baml
+C:\Users\MaryFabDoll\Downloads\movie_program-20230512T102609Z-001\movie_program\obj\Debug\net6.0-windows\Registration.baml
+C:\Users\MaryFabDoll\Downloads\movie_program-20230512T102609Z-001\movie_program\obj\Debug\net6.0-windows\movie_program.g.resources
+C:\Users\MaryFabDoll\Downloads\movie_program-20230512T102609Z-001\movie_program\obj\Debug\net6.0-windows\movie_program.Properties.Resources.resources
+C:\Users\MaryFabDoll\Downloads\movie_program-20230512T102609Z-001\movie_program\obj\Debug\net6.0-windows\movie_program.csproj.GenerateResource.cache
+C:\Users\MaryFabDoll\Downloads\movie_program-20230512T102609Z-001\movie_program\obj\Debug\net6.0-windows\movie_program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MaryFabDoll\Downloads\movie_program-20230512T102609Z-001\movie_program\obj\Debug\net6.0-windows\movie_program.AssemblyInfoInputs.cache
+C:\Users\MaryFabDoll\Downloads\movie_program-20230512T102609Z-001\movie_program\obj\Debug\net6.0-windows\movie_program.AssemblyInfo.cs
+C:\Users\MaryFabDoll\Downloads\movie_program-20230512T102609Z-001\movie_program\obj\Debug\net6.0-windows\movie_program.csproj.CoreCompileInputs.cache
+C:\Users\MaryFabDoll\Downloads\movie_program-20230512T102609Z-001\movie_program\obj\Debug\net6.0-windows\movie_program.csproj.CopyComplete
+C:\Users\MaryFabDoll\Downloads\movie_program-20230512T102609Z-001\movie_program\obj\Debug\net6.0-windows\movie_program.dll
+C:\Users\MaryFabDoll\Downloads\movie_program-20230512T102609Z-001\movie_program\obj\Debug\net6.0-windows\refint\movie_program.dll
+C:\Users\MaryFabDoll\Downloads\movie_program-20230512T102609Z-001\movie_program\obj\Debug\net6.0-windows\movie_program.pdb
+C:\Users\MaryFabDoll\Downloads\movie_program-20230512T102609Z-001\movie_program\obj\Debug\net6.0-windows\movie_program.genruntimeconfig.cache
+C:\Users\MaryFabDoll\Downloads\movie_program-20230512T102609Z-001\movie_program\obj\Debug\net6.0-windows\ref\movie_program.dll
+C:\Users\ivank\Desktop\movie_program\bin\Debug\net6.0-windows\movie_program.exe
+C:\Users\ivank\Desktop\movie_program\bin\Debug\net6.0-windows\movie_program.dll.config
+C:\Users\ivank\Desktop\movie_program\bin\Debug\net6.0-windows\movie_program.deps.json
+C:\Users\ivank\Desktop\movie_program\bin\Debug\net6.0-windows\movie_program.runtimeconfig.json
+C:\Users\ivank\Desktop\movie_program\bin\Debug\net6.0-windows\movie_program.dll
+C:\Users\ivank\Desktop\movie_program\bin\Debug\net6.0-windows\movie_program.pdb
+C:\Users\ivank\Desktop\movie_program\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\ivank\Desktop\movie_program\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ivank\Desktop\movie_program\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ivank\Desktop\movie_program\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ivank\Desktop\movie_program\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ivank\Desktop\movie_program\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ivank\Desktop\movie_program\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ivank\Desktop\movie_program\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ivank\Desktop\movie_program\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\ivank\Desktop\movie_program\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ivank\Desktop\movie_program\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\ivank\Desktop\movie_program\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\ivank\Desktop\movie_program\bin\Debug\net6.0-windows\MySqlConnector.dll
+C:\Users\ivank\Desktop\movie_program\bin\Debug\net6.0-windows\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\ivank\Desktop\movie_program\obj\Debug\net6.0-windows\movie_program.csproj.AssemblyReference.cache
+C:\Users\ivank\Desktop\movie_program\obj\Debug\net6.0-windows\Edit.g.cs
+C:\Users\ivank\Desktop\movie_program\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\ivank\Desktop\movie_program\obj\Debug\net6.0-windows\Menu.g.cs
+C:\Users\ivank\Desktop\movie_program\obj\Debug\net6.0-windows\Registration.g.cs
+C:\Users\ivank\Desktop\movie_program\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\ivank\Desktop\movie_program\obj\Debug\net6.0-windows\movie_program_Content.g.cs
+C:\Users\ivank\Desktop\movie_program\obj\Debug\net6.0-windows\movie_program_MarkupCompile.cache
+C:\Users\ivank\Desktop\movie_program\obj\Debug\net6.0-windows\movie_program_MarkupCompile.lref
+C:\Users\ivank\Desktop\movie_program\obj\Debug\net6.0-windows\Edit.baml
+C:\Users\ivank\Desktop\movie_program\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\ivank\Desktop\movie_program\obj\Debug\net6.0-windows\Menu.baml
+C:\Users\ivank\Desktop\movie_program\obj\Debug\net6.0-windows\Registration.baml
+C:\Users\ivank\Desktop\movie_program\obj\Debug\net6.0-windows\movie_program.g.resources
+C:\Users\ivank\Desktop\movie_program\obj\Debug\net6.0-windows\movie_program.Properties.Resources.resources
+C:\Users\ivank\Desktop\movie_program\obj\Debug\net6.0-windows\movie_program.csproj.GenerateResource.cache
+C:\Users\ivank\Desktop\movie_program\obj\Debug\net6.0-windows\movie_program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivank\Desktop\movie_program\obj\Debug\net6.0-windows\movie_program.AssemblyInfoInputs.cache
+C:\Users\ivank\Desktop\movie_program\obj\Debug\net6.0-windows\movie_program.AssemblyInfo.cs
+C:\Users\ivank\Desktop\movie_program\obj\Debug\net6.0-windows\movie_program.csproj.CoreCompileInputs.cache
+C:\Users\ivank\Desktop\movie_program\obj\Debug\net6.0-windows\movie_program.csproj.CopyComplete
+C:\Users\ivank\Desktop\movie_program\obj\Debug\net6.0-windows\movie_program.dll
+C:\Users\ivank\Desktop\movie_program\obj\Debug\net6.0-windows\refint\movie_program.dll
+C:\Users\ivank\Desktop\movie_program\obj\Debug\net6.0-windows\movie_program.pdb
+C:\Users\ivank\Desktop\movie_program\obj\Debug\net6.0-windows\movie_program.genruntimeconfig.cache
+C:\Users\ivank\Desktop\movie_program\obj\Debug\net6.0-windows\ref\movie_program.dll
+C:\Users\ivank\Desktop\Тимур movie\bin\Debug\net6.0-windows\movie_program.exe
+C:\Users\ivank\Desktop\Тимур movie\bin\Debug\net6.0-windows\movie_program.dll.config
+C:\Users\ivank\Desktop\Тимур movie\bin\Debug\net6.0-windows\movie_program.deps.json
+C:\Users\ivank\Desktop\Тимур movie\bin\Debug\net6.0-windows\movie_program.runtimeconfig.json
+C:\Users\ivank\Desktop\Тимур movie\bin\Debug\net6.0-windows\movie_program.dll
+C:\Users\ivank\Desktop\Тимур movie\bin\Debug\net6.0-windows\movie_program.pdb
+C:\Users\ivank\Desktop\Тимур movie\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\ivank\Desktop\Тимур movie\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ivank\Desktop\Тимур movie\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ivank\Desktop\Тимур movie\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ivank\Desktop\Тимур movie\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ivank\Desktop\Тимур movie\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ivank\Desktop\Тимур movie\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ivank\Desktop\Тимур movie\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ivank\Desktop\Тимур movie\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\ivank\Desktop\Тимур movie\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ivank\Desktop\Тимур movie\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\ivank\Desktop\Тимур movie\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\ivank\Desktop\Тимур movie\bin\Debug\net6.0-windows\MySqlConnector.dll
+C:\Users\ivank\Desktop\Тимур movie\bin\Debug\net6.0-windows\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\ivank\Desktop\Тимур movie\obj\Debug\net6.0-windows\movie_program.csproj.AssemblyReference.cache
+C:\Users\ivank\Desktop\Тимур movie\obj\Debug\net6.0-windows\Edit.g.cs
+C:\Users\ivank\Desktop\Тимур movie\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\ivank\Desktop\Тимур movie\obj\Debug\net6.0-windows\Menu.g.cs
+C:\Users\ivank\Desktop\Тимур movie\obj\Debug\net6.0-windows\Registration.g.cs
+C:\Users\ivank\Desktop\Тимур movie\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\ivank\Desktop\Тимур movie\obj\Debug\net6.0-windows\movie_program_MarkupCompile.cache
+C:\Users\ivank\Desktop\Тимур movie\obj\Debug\net6.0-windows\movie_program_MarkupCompile.lref
+C:\Users\ivank\Desktop\Тимур movie\obj\Debug\net6.0-windows\Edit.baml
+C:\Users\ivank\Desktop\Тимур movie\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\ivank\Desktop\Тимур movie\obj\Debug\net6.0-windows\Menu.baml
+C:\Users\ivank\Desktop\Тимур movie\obj\Debug\net6.0-windows\Registration.baml
+C:\Users\ivank\Desktop\Тимур movie\obj\Debug\net6.0-windows\movie_program.g.resources
+C:\Users\ivank\Desktop\Тимур movie\obj\Debug\net6.0-windows\movie_program.Properties.Resources.resources
+C:\Users\ivank\Desktop\Тимур movie\obj\Debug\net6.0-windows\movie_program.csproj.GenerateResource.cache
+C:\Users\ivank\Desktop\Тимур movie\obj\Debug\net6.0-windows\movie_program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivank\Desktop\Тимур movie\obj\Debug\net6.0-windows\movie_program.AssemblyInfoInputs.cache
+C:\Users\ivank\Desktop\Тимур movie\obj\Debug\net6.0-windows\movie_program.AssemblyInfo.cs
+C:\Users\ivank\Desktop\Тимур movie\obj\Debug\net6.0-windows\movie_program.csproj.CoreCompileInputs.cache
+C:\Users\ivank\Desktop\Тимур movie\obj\Debug\net6.0-windows\movie_program.csproj.CopyComplete
+C:\Users\ivank\Desktop\Тимур movie\obj\Debug\net6.0-windows\movie_program.dll
+C:\Users\ivank\Desktop\Тимур movie\obj\Debug\net6.0-windows\refint\movie_program.dll
+C:\Users\ivank\Desktop\Тимур movie\obj\Debug\net6.0-windows\movie_program.pdb
+C:\Users\ivank\Desktop\Тимур movie\obj\Debug\net6.0-windows\movie_program.genruntimeconfig.cache
+C:\Users\ivank\Desktop\Тимур movie\obj\Debug\net6.0-windows\ref\movie_program.dll
+C:\Users\ivank\Desktop\Тимур movie\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\Users\ivank\Desktop\Тимур movie\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\ivank\Desktop\Тимур movie\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\ivank\Desktop\Тимур movie\bin\Debug\net6.0-windows\ControlzEx.dll
+C:\Users\ivank\Desktop\Тимур movie\bin\Debug\net6.0-windows\MahApps.Metro.dll
+C:\Users\ivank\Desktop\Тимур movie\bin\Debug\net6.0-windows\MaterialDesignThemes.MahApps.dll
+C:\Users\ivank\Desktop\Тимур movie\obj\Debug\net6.0-windows\App.baml
+C:\Users\ivank\Desktop\And Movie\bin\Debug\net6.0-windows\movie_program.exe
+C:\Users\ivank\Desktop\And Movie\bin\Debug\net6.0-windows\movie_program.dll.config
+C:\Users\ivank\Desktop\And Movie\bin\Debug\net6.0-windows\movie_program.deps.json
+C:\Users\ivank\Desktop\And Movie\bin\Debug\net6.0-windows\movie_program.runtimeconfig.json
+C:\Users\ivank\Desktop\And Movie\bin\Debug\net6.0-windows\movie_program.dll
+C:\Users\ivank\Desktop\And Movie\bin\Debug\net6.0-windows\movie_program.pdb
+C:\Users\ivank\Desktop\And Movie\bin\Debug\net6.0-windows\ControlzEx.dll
+C:\Users\ivank\Desktop\And Movie\bin\Debug\net6.0-windows\MahApps.Metro.dll
+C:\Users\ivank\Desktop\And Movie\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\Users\ivank\Desktop\And Movie\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\ivank\Desktop\And Movie\bin\Debug\net6.0-windows\MaterialDesignThemes.MahApps.dll
+C:\Users\ivank\Desktop\And Movie\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\ivank\Desktop\And Movie\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ivank\Desktop\And Movie\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ivank\Desktop\And Movie\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ivank\Desktop\And Movie\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ivank\Desktop\And Movie\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ivank\Desktop\And Movie\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ivank\Desktop\And Movie\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ivank\Desktop\And Movie\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\ivank\Desktop\And Movie\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ivank\Desktop\And Movie\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\ivank\Desktop\And Movie\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\ivank\Desktop\And Movie\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\ivank\Desktop\And Movie\bin\Debug\net6.0-windows\MySqlConnector.dll
+C:\Users\ivank\Desktop\And Movie\bin\Debug\net6.0-windows\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\ivank\Desktop\And Movie\obj\Debug\net6.0-windows\movie_program.csproj.AssemblyReference.cache
+C:\Users\ivank\Desktop\And Movie\obj\Debug\net6.0-windows\Edit.g.cs
+C:\Users\ivank\Desktop\And Movie\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\ivank\Desktop\And Movie\obj\Debug\net6.0-windows\Menu.g.cs
+C:\Users\ivank\Desktop\And Movie\obj\Debug\net6.0-windows\Registration.g.cs
+C:\Users\ivank\Desktop\And Movie\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\ivank\Desktop\And Movie\obj\Debug\net6.0-windows\movie_program_MarkupCompile.cache
+C:\Users\ivank\Desktop\And Movie\obj\Debug\net6.0-windows\movie_program_MarkupCompile.lref
+C:\Users\ivank\Desktop\And Movie\obj\Debug\net6.0-windows\App.baml
+C:\Users\ivank\Desktop\And Movie\obj\Debug\net6.0-windows\Edit.baml
+C:\Users\ivank\Desktop\And Movie\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\ivank\Desktop\And Movie\obj\Debug\net6.0-windows\Menu.baml
+C:\Users\ivank\Desktop\And Movie\obj\Debug\net6.0-windows\Registration.baml
+C:\Users\ivank\Desktop\And Movie\obj\Debug\net6.0-windows\movie_program.g.resources
+C:\Users\ivank\Desktop\And Movie\obj\Debug\net6.0-windows\movie_program.Properties.Resources.resources
+C:\Users\ivank\Desktop\And Movie\obj\Debug\net6.0-windows\movie_program.csproj.GenerateResource.cache
+C:\Users\ivank\Desktop\And Movie\obj\Debug\net6.0-windows\movie_program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivank\Desktop\And Movie\obj\Debug\net6.0-windows\movie_program.AssemblyInfoInputs.cache
+C:\Users\ivank\Desktop\And Movie\obj\Debug\net6.0-windows\movie_program.AssemblyInfo.cs
+C:\Users\ivank\Desktop\And Movie\obj\Debug\net6.0-windows\movie_program.csproj.CoreCompileInputs.cache
+C:\Users\ivank\Desktop\And Movie\obj\Debug\net6.0-windows\movie_program.csproj.CopyComplete
+C:\Users\ivank\Desktop\And Movie\obj\Debug\net6.0-windows\movie_program.dll
+C:\Users\ivank\Desktop\And Movie\obj\Debug\net6.0-windows\refint\movie_program.dll
+C:\Users\ivank\Desktop\And Movie\obj\Debug\net6.0-windows\movie_program.pdb
+C:\Users\ivank\Desktop\And Movie\obj\Debug\net6.0-windows\movie_program.genruntimeconfig.cache
+C:\Users\ivank\Desktop\And Movie\obj\Debug\net6.0-windows\ref\movie_program.dll
+C:\Users\ivank\Desktop\Iv Cinema\bin\Debug\net6.0-windows\movie_program.exe
+C:\Users\ivank\Desktop\Iv Cinema\bin\Debug\net6.0-windows\movie_program.dll.config
+C:\Users\ivank\Desktop\Iv Cinema\bin\Debug\net6.0-windows\movie_program.deps.json
+C:\Users\ivank\Desktop\Iv Cinema\bin\Debug\net6.0-windows\movie_program.runtimeconfig.json
+C:\Users\ivank\Desktop\Iv Cinema\bin\Debug\net6.0-windows\movie_program.dll
+C:\Users\ivank\Desktop\Iv Cinema\bin\Debug\net6.0-windows\movie_program.pdb
+C:\Users\ivank\Desktop\Iv Cinema\bin\Debug\net6.0-windows\ControlzEx.dll
+C:\Users\ivank\Desktop\Iv Cinema\bin\Debug\net6.0-windows\MahApps.Metro.dll
+C:\Users\ivank\Desktop\Iv Cinema\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\Users\ivank\Desktop\Iv Cinema\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\ivank\Desktop\Iv Cinema\bin\Debug\net6.0-windows\MaterialDesignThemes.MahApps.dll
+C:\Users\ivank\Desktop\Iv Cinema\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\ivank\Desktop\Iv Cinema\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ivank\Desktop\Iv Cinema\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ivank\Desktop\Iv Cinema\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ivank\Desktop\Iv Cinema\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ivank\Desktop\Iv Cinema\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ivank\Desktop\Iv Cinema\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ivank\Desktop\Iv Cinema\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ivank\Desktop\Iv Cinema\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\ivank\Desktop\Iv Cinema\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ivank\Desktop\Iv Cinema\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\ivank\Desktop\Iv Cinema\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\ivank\Desktop\Iv Cinema\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\ivank\Desktop\Iv Cinema\bin\Debug\net6.0-windows\MySqlConnector.dll
+C:\Users\ivank\Desktop\Iv Cinema\bin\Debug\net6.0-windows\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\ivank\Desktop\Iv Cinema\obj\Debug\net6.0-windows\movie_program.csproj.AssemblyReference.cache
+C:\Users\ivank\Desktop\Iv Cinema\obj\Debug\net6.0-windows\Edit.g.cs
+C:\Users\ivank\Desktop\Iv Cinema\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\ivank\Desktop\Iv Cinema\obj\Debug\net6.0-windows\Menu.g.cs
+C:\Users\ivank\Desktop\Iv Cinema\obj\Debug\net6.0-windows\Registration.g.cs
+C:\Users\ivank\Desktop\Iv Cinema\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\ivank\Desktop\Iv Cinema\obj\Debug\net6.0-windows\movie_program_MarkupCompile.cache
+C:\Users\ivank\Desktop\Iv Cinema\obj\Debug\net6.0-windows\movie_program_MarkupCompile.lref
+C:\Users\ivank\Desktop\Iv Cinema\obj\Debug\net6.0-windows\App.baml
+C:\Users\ivank\Desktop\Iv Cinema\obj\Debug\net6.0-windows\Edit.baml
+C:\Users\ivank\Desktop\Iv Cinema\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\ivank\Desktop\Iv Cinema\obj\Debug\net6.0-windows\Menu.baml
+C:\Users\ivank\Desktop\Iv Cinema\obj\Debug\net6.0-windows\Registration.baml
+C:\Users\ivank\Desktop\Iv Cinema\obj\Debug\net6.0-windows\movie_program.g.resources
+C:\Users\ivank\Desktop\Iv Cinema\obj\Debug\net6.0-windows\movie_program.Properties.Resources.resources
+C:\Users\ivank\Desktop\Iv Cinema\obj\Debug\net6.0-windows\movie_program.csproj.GenerateResource.cache
+C:\Users\ivank\Desktop\Iv Cinema\obj\Debug\net6.0-windows\movie_program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivank\Desktop\Iv Cinema\obj\Debug\net6.0-windows\movie_program.AssemblyInfoInputs.cache
+C:\Users\ivank\Desktop\Iv Cinema\obj\Debug\net6.0-windows\movie_program.AssemblyInfo.cs
+C:\Users\ivank\Desktop\Iv Cinema\obj\Debug\net6.0-windows\movie_program.csproj.CoreCompileInputs.cache
+C:\Users\ivank\Desktop\Iv Cinema\obj\Debug\net6.0-windows\movie_program.csproj.CopyComplete
+C:\Users\ivank\Desktop\Iv Cinema\obj\Debug\net6.0-windows\movie_program.dll
+C:\Users\ivank\Desktop\Iv Cinema\obj\Debug\net6.0-windows\refint\movie_program.dll
+C:\Users\ivank\Desktop\Iv Cinema\obj\Debug\net6.0-windows\movie_program.pdb
+C:\Users\ivank\Desktop\Iv Cinema\obj\Debug\net6.0-windows\movie_program.genruntimeconfig.cache
+C:\Users\ivank\Desktop\Iv Cinema\obj\Debug\net6.0-windows\ref\movie_program.dll

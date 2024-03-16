@@ -1,0 +1,46 @@
+﻿<Window x:Class="movie_program.Menu"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:movie_program"
+        WindowStyle="None"
+        mc:Ignorable="d"
+        Title="Menu" Height="450" Width="650" WindowStartupLocation="CenterScreen">
+
+    <Grid Background="White" Margin="0,0,0,-6">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="90"/>
+            <RowDefinition Height="270"/>
+            <RowDefinition Height="90"/>
+
+        </Grid.RowDefinitions>
+        <Image Source="/fon.jpg" Stretch="Fill" Margin="0,0,0,-6" Grid.RowSpan="3">
+            <Image.Effect>
+                <BlurEffect/>
+            </Image.Effect>
+        </Image>
+        <Image Source="/Camera cop.ico" Margin="-172,0,172,203" RenderTransformOrigin="0.497,0.145" Grid.Row="1"/>
+        <TextBlock HorizontalAlignment="Left" Margin="153,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="28" Width="314" FontFamily="Bahnschrift" FontSize="24" TextAlignment="Center" Foreground="White" RenderTransformOrigin="-0.508,0.12"><Run Language="ru-ru" Text="Магазин стройматериалов"/></TextBlock>
+
+        <DataGrid x:Name="DGrid" Background="{DynamicResource MaterialDesignBackground}" AutoGenerateColumns="False" IsReadOnly="True" Grid.Row="1" SelectionChanged="DGrid_SelectionChanged" IsSynchronizedWithCurrentItem="False">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="№" Binding="{Binding ID_фильма}" Width="35"></DataGridTextColumn>
+                <DataGridTextColumn Header="Название" Binding="{Binding Название}" Width="*"></DataGridTextColumn>
+                <DataGridTextColumn Header="Страна производитель" Binding="{Binding Страна}" Width="*"></DataGridTextColumn>
+                <DataGridTextColumn Header="Компания" Binding="{Binding Компания}" Width="*"></DataGridTextColumn>
+
+                <DataGridTemplateColumn Width="auto">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Button Content="Редактировать" Name="btn_redact" Click="Button_Redact"></Button>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+        <Button Content="Добавить" Click="Button_Add" HorizontalAlignment="Left" Margin="200,9,0,0" Grid.Row="2" VerticalAlignment="Top" Height="35" Width="113" Background="{DynamicResource MaterialDesignBackground}" BorderBrush="#FFFCFCFC" FontFamily="Times New Roman" FontSize="16" Foreground="#DD000000"/>
+        <Button Content="Удалить" Click="Button_Delete" HorizontalAlignment="Left" Margin="325,9,0,0" Grid.Row="2" VerticalAlignment="Top" Height="36" Width="113" Background="{DynamicResource MaterialDesignBackground}" BorderBrush="White" FontFamily="Times New Roman" FontSize="16" Foreground="#DD000000"/>
+
+    </Grid>
+</Window>

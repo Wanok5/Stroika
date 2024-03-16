@@ -1,0 +1,76 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+    <ApplicationIcon>kinokha_kopia.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Camera cop.ico" />
+    <None Remove="fon.jpg" />
+    <None Remove="ico.png" />
+    <None Remove="ikon.png" />
+    <None Remove="kinoh.jpg" />
+    <None Remove="kinoshka.jpg" />
+    <None Remove="Log in.jpg" />
+    <None Remove="sln.png" />
+    <None Remove="stud.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="fon.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="ikon.png" />
+    <Resource Include="kinoshka.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Log in.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Camera cop.ico" />
+    <Resource Include="sln.png" />
+    <Resource Include="stud.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MaterialDesignColors" Version="2.1.5-ci295" />
+    <PackageReference Include="MaterialDesignThemes" Version="4.10.0-ci295" />
+    <PackageReference Include="MaterialDesignThemes.MahApps" Version="2.1.5-ci295" />
+    <PackageReference Include="Pomelo.EntityFrameworkCore.MySql" Version="7.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Properties\Resources.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Update="Properties\Settings.Designer.cs">
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+
+</Project>
